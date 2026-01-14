@@ -205,7 +205,7 @@ function Home() {
 
             <footer className="footer">
                 <p className="footer-title">Happy Makar Sankranti</p>
-                <p className="footer-subtitle">Made with ❤️ Rohan Vashisht, Hitarth Patel, Harsh Mishra, Laxman Patel, Yash Khapre, Om Pandey</p>
+                <p className="footer-subtitle">Made with ❤️ Rohan Vashisht, Hitarth Patel, Harsh Mishra, Yash Khapre</p>
             </footer>
         </div>
     );
